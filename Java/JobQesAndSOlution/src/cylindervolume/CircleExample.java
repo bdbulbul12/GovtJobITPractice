@@ -4,7 +4,7 @@
  Cylinder class has to calculate the circle are at the base and heifgt of its own
 (CylinderVolume=circleArea*height).Using Inheritence
  */
-// Dutch Bangla Bank Ques 2016 Pagla
+// Dutch Bangla Bank Ques 2016 Pagla Added
 package cylindervolume;
 
 public class CircleExample {
