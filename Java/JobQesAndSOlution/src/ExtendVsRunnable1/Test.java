@@ -17,6 +17,7 @@ public class Test{
     }
 
 }
+//New Thread class Extends
 
 class A extends Thread{
     
